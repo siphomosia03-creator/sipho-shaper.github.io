@@ -15,6 +15,8 @@ This space is where I share my learning journey, showcase projects, and experime
 bridge technology, policy and impact.
 
 
+
+
 My Portfolio and Learning Roadmap
 
 
@@ -25,6 +27,8 @@ decision-making in the justice system and professional sport. I’m passionate a
 predictive insights to save time, reduce bias, and support evidence-based outcomes for lawyers, courts, and athletes.
 
 
+
+
 TARGET ROLE
 
 Target Role: Data Analyst
@@ -32,6 +36,8 @@ I am targeting a data analyst role because it aligns naturally with my legal tra
 and clear communication. Right now is the right time because I’m intentionally bridging law with data science to explore how analytics 
 can improve efficiency, consistency, and fairness in legal decisions, while also applying similar analytical thinking to 
 sports performance and strategy.
+
+
 
 
 SEED PROJECT IDEAS
@@ -48,6 +54,9 @@ Project Idea 3: Shares Analytics
 Analyse the shares history in the Johannesburg Stock Exchange and current affairs to predict which companies shares
 are more likely to increase, with the aim of assisting investors and ordinary South Africans to invest wisely.
 
+
+
+
 SKILLS TO GROW
 
 Technical Skill: Python for data analysis and basic machine learning (pandas, NumPy, scikit-learn)
@@ -57,6 +66,9 @@ predictive models, and exploring outcome probabilities.
 Soft Skill: Analytical communication & ethical reasoning
 Explaining complex data-driven insights clearly to non-technical stakeholders (lawyers, judges, coaches) 
 and addressing limitations and bias.
+
+
+
 
 GOALS: SHORT & LONG-TERM
 
